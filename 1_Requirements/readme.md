@@ -1,8 +1,8 @@
-Introduction :
+##Introduction :
 Employee Record System is software built to handle the primary housekeeping functions of a company. ERS helps companies keep track of all the employees and their records. It is used to manage the company using a computerized system. This software built to handle the records of employees of any company. It will help companies to keep track of all the employees’ records in a file.
 
 
-Defining our system :
+##Defining our system :
 The user will be provided with 5 options:
 1.Add a new record.
 2.Delete a record.
@@ -17,7 +17,7 @@ Data of the Employees:
 4.Employee ID
 
 
-SWOT Analysis :
+##SWOT Analysis :
 
 Strenth:
 1. It makes the job easier for the user to keep a record of their employees.
@@ -36,7 +36,7 @@ Threats:
 2. Anyone can copy the data from the fine.
 
 
-4W's and 1'H :
+##4W's and 1'H :
 Who:
 Anyone who has to keep a record of the employee in the system for future reference.
 
