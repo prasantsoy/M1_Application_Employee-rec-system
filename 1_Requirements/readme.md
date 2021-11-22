@@ -3,18 +3,31 @@ Employee Record System is software built to handle the primary housekeeping func
 
 
 ## Defining our system :
-The user will be provided with 5 options:
-1.Add a new record.
-2.Delete a record.
-3.Modify a record.
-4.View all the records.
-5.Exit.
+ The user will be provided with 5 options:
+ 
+ 1.Add a new record.
+ 
+ 2.Delete a record.
+ 
+ 3.Modify a record.
+ 
+ 4.View all the records.
+ 
+ 5.Exit.
 
 Data of the Employees:
-1.Name
-2.Age
-3.Salary
-4.Employee ID
+
+ 1.Name
+ 
+ 2.Age
+ 
+ 3.Salary
+ 
+ 4.Employee ID
+ 
+All the functions will be provided under switch cases. The idea is to use the concepts of File Handling to write the data in a text file and read the written data as well. We need to add a data.txt file in the same folder as well.
+
+
 
 
 ## SWOT Analysis :
@@ -37,19 +50,19 @@ Threats:
 
 
 ## 4W's and 1'H :
-Who:
+Who:  
 Anyone who has to keep a record of the employee in the system for future reference.
 
-What:
+What: 
 User will be able to keep the upload the details of the employee and can see the details later.
 
-When:
+When: 
 When the user is having too many employees to manage, he/she can update the record accordingly.
 
-Where:
+Where:  
 It can be deployed anywhere where keeping records is required.
 
-How:
+How:  
 User can open the data file and able to apply changes accordingly.
 
 
