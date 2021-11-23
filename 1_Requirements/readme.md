@@ -66,3 +66,22 @@ How:
 User can open the data file and able to apply changes accordingly.
 
 
+## Detail requirements:
+
+High level requirements: 
+
+
+|**ID**|**Description**|**Category**|**Status**|
+| :-: | :-: | :-: | :-: |
+|HR01|User should enter the employee name.|Technical|IMPLEMENTED|
+|HR02|User should enter employee age |Technical|IMPLEMENTED|
+|HR03|User should enter salary of employee|Technical|IMPLEMENTED|
+|HR04|User should enter employee ID number|Technical|IMPLEMENTED|
+
+Low Level Requirements:
+
+|**ID**|**Description**|**HLR ID**|**Status (Implemented/Future)**|
+| :-: | :-: | :-: | :-: |
+|LR01|User must choose the option to do in file|HR01|IMPLEMENTED|
+|LR02|User must give the correct option .|HR02|IMPLEMENTED|
+|LR03|User must give the relevent inputs|HR03|IMPLEMENTED|
