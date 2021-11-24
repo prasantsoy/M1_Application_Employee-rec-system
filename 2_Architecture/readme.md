@@ -1,1 +1,1 @@
-It contains the behavorial and architectural diagrams.
+It contains the behavorial and architectural diagrams of the project.
