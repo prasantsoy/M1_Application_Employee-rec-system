@@ -48,7 +48,7 @@
     1. All data is stored in a file which needs to be safe.
     2. Anyone can copy the data from the fine.
 
-## 4W's and 1H:
+## 4W's and 1H
     Who: Anyone who has to keep a record of the employee in the system for future reference.
     What: User will be able to keep the upload the details of the employee and can see the details later.
     When: When the user is having too many employees to manage, he/she can update the record accordingly.
