@@ -8,8 +8,6 @@
 | 5 | Delete Record | Enter employee name --legend |
 | 6 | Exit | To come back to main menu |
 
- 
-
 ## EXPECTED OUTCOMES
 
 | **TEST CASE ID** | **EXPECTED RESULT** |
