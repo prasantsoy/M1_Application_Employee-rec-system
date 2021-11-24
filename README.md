@@ -10,7 +10,7 @@ This is a project to maintains the details of employee's details where we can ad
 ## Windows OS Build
 [![Linux OS Build](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/wind-c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/wind-c-cpp.yml)
 
-# Folder Structure :
+# Folder Structure 
 
 Folder_Name      |  Description
 -----------------|--------------
