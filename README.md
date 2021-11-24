@@ -9,3 +9,14 @@ Maintains the details of employee where we ca add, remove,modify and do other ki
 
 # 2 Windows OS Build
 [![Linux OS Build](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/wind-c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/wind-c-cpp.yml)
+
+# Folder Structure :
+
+Folder_Name      |  Description
+-----------------|--------------
+1_Reuriments     |  Documents detailing requirements and research
+2_Design(Architecture)         |  Documents specifying design
+3_Implemenation  |  All codes and Documentation
+4_Testplan       |  Documents with test plans
+5_Report         |  Documentation of whole project
+6_Images         |  All the images of this project
