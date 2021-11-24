@@ -1,4 +1,4 @@
-**TEST CASES: -**
+##TEST CASES: -
 
 | **Test case Id** | **Test scenario** | **Test data** |
 | --- | --- | --- |
@@ -10,7 +10,7 @@
 
  
 
-**EXPECTED OUTCOMES: -**
+##EXPECTED OUTCOMES:
 
 | **TEST CASE ID** | **EXPECTED RESULT** |
 | --- | --- |
@@ -19,4 +19,3 @@
 | 3 | enter basic salary -- 4000 |
 | 4 | enter employee ID -- 3456 |
 | 5 | Added successfully |
-
