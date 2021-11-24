@@ -53,10 +53,10 @@ Threats
 Who
 Anyone who has to keep a record of the employee in the system for future reference.
 
-What
+What 
 User will be able to keep the upload the details of the employee and can see the details later.
 
-When
+When 
 When the user is having too many employees to manage, he/she can update the record accordingly.
 
 Where  
