@@ -1,4 +1,4 @@
-## TEST CASES:
+## TEST CASES
 
 | **Test case Id** | **Test scenario** | **Test data** |
 | --- | --- | --- |
@@ -10,7 +10,7 @@
 
  
 
-## EXPECTED OUTCOMES:
+## EXPECTED OUTCOMES
 
 | **TEST CASE ID** | **EXPECTED RESULT** |
 | --- | --- |
