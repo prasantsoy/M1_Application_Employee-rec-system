@@ -9,4 +9,3 @@
 | inc    | All headers files                            |
 | src    | Main source code                             |
 | build  | Build output (not included in git)|
-
