@@ -6,3 +6,6 @@ Maintains the details of employee where we ca add, remove,modify and do other ki
 
 # Linux OS Build
 [![Linux OS Build](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/c-cpp.yml)
+
+# Windows OS Build
+[![Linux OS Build](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/wind-c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/wind-c-cpp.yml)
