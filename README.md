@@ -10,6 +10,9 @@ This is a project to maintains the details of employee's details where we can ad
 ## Windows OS Build
 [![Linux OS Build](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/wind-c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M1_Application_Employee-rec-system/actions/workflows/wind-c-cpp.yml)
 
+## Codiga
+[![Codacy Badge](https://api.codiga.io/project/29923/score/svg)](https://www.codacy.com/gh/prasantsoy/M1_Application_Employee-rec-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prasantsoy/M1_Application_Employee-rec-system&amp;utm_campaign=Badge_Grade)
+
 ## Folder Structure 
 
 Folder_Name      |  Description
