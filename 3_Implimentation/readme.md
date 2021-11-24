@@ -1,1 +1,12 @@
-It contains the main function and other functions with all the required header files.
+# Implementation
+
+## Folder Structure
+
+---
+
+| Folder | Description                                  |
+| ------ | -------------------------------------------- |
+| inc    | All headers files                            |
+| src    | Main source code                             |
+| build  | Build output (not included in git)           |
+
