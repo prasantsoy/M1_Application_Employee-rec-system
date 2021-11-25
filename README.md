@@ -25,4 +25,4 @@ Folder_Name      |  Description
 3_Implemenation  |  All codes and Documentation
 4_Testplan       |  Documents with test plans
 5_Report         |  Documentation of whole project
-6_Images         |  All the images of this project
+6_ImagesAndVideos         |  All the images of this project
