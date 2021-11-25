@@ -61,7 +61,6 @@ Low Level Requirements
 |LR02|User must give the correct option .|HR02|IMPLEMENTED|
 |LR03|User must give the relevent inputs|HR03|IMPLEMENTED|
 
-
 ## Behavorial Diagram
 ![behavioural_dia](https://user-images.githubusercontent.com/94223490/143220156-4a78a263-3b4a-408b-9809-599429224f1b.png)
 
