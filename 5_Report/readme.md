@@ -1,4 +1,4 @@
-## It contains the overall review of the project.
+## It contains the overall review of the project
 
 ## Introduction
     Employee Record System is software built to handle the primary housekeeping functions of a company. 
@@ -68,6 +68,6 @@ Low Level Requirements
 ## Structural Diagram
 ![Structural_dia](https://user-images.githubusercontent.com/94223490/143220187-85c39b68-bfad-42a0-8006-9d900afaab57.png)
 
-## It contains the images and videos of the code and how to use.
+## It contains the images and videos of the code and how to use
 ![op](https://user-images.githubusercontent.com/94223490/143219962-64eda640-d835-44d9-a924-fcbfea7add1e.png)
 ![op1](https://user-images.githubusercontent.com/94223490/143219987-a164f1db-8b4b-494b-9158-0bd72c543fd3.png)
